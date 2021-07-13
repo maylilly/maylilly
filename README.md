@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maylilly
-- 👀 I’m interested in becoming a jr web developer then unto becoming a front end developer.
-- 🌱 I’m currently learning CSS3, Tailwind CSS, Javascript.
-- 💞️ I’m looking to collaborate on creating websites/sharing tips with other students.
+- 👀 I’m interested in becoming a data analyst/python developer.
+- 🌱 I’m currently learning sql, python(refreshing actually), databases.
+- 💞️ I’m looking to collaborate around this area.
 - 📫 How to reach me arawakindian007@gmail.com.
 
 <!---
